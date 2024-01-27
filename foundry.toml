@@ -1,0 +1,8 @@
+[profile.default]
+src = "contracts"
+out = "out"
+libs = ["lib"]
+
+# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
+
+eth_rpc_url = 'https://sepolia.infura.io/v3/00ab5bc414cc40adb50a8c84140da776'
